@@ -15,7 +15,7 @@ const Hero = () => {
         <div className='flex flex-col md:flex-row items-center lg:h-[90vh] justify-between' >
             <div className='md:w-1/2 mb-8 md:mb-0 flex flex-col space-y-4 px-6 lg:px-0 lg:mt-0 mt-10'>
                <h1 className='lg:text-7xl text-4xl font-bold lg:leading-snug text-white'>Hi There, <br />I'm K.L.Nikil <span className='text-red-500'>Reddy</span></h1>
-               <p className='md:text-2xl text-xl mb-4 text-white'>Web Developer </p>
+               <p className='md:text-2xl text-xl mb-4 text-white'>Web </p>
                <p className='mb-4 text-white'>I'm a passionate web developer with expertise in Python Full Stack and modern web technologies. I love creating beautiful and functional website that solve real world problems.</p>
                <button className='bg-white text-black px-3 py-2 w-max rounded-md'><a href="https://drive.google.com/file/d/1nZ3NosWQPwH-TL0hJ4aEBUQkYUIiJX9D/view?usp=drive_link" download target='_blank'>Download CV</a></button>
             </div>
